@@ -13,7 +13,7 @@ Integration with Telecommunication Services: SpringPhoneConnect smoothly integra
 
 Scalable and Efficient: Built on the Spring Boot framework, this project is designed to be scalable and performant, handling various use cases with ease.
 
-_Getting Started_****
+**_Getting Started_**
 **Prerequisites**
 To run this project locally, you need to have the following prerequisites installed on your system:
 
